@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Hog</title>
+    <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
+    <description>Updates for Hog for Mac.</description>
+    <item>
+      <title>Hog 0.12.0</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.12.0</link>
+      <pubDate>Mon, 19 Oct 2026 12:52:56 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog, macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>Reading width is yours to set.</strong> Settings ▸ General ▸ Reading width: Narrow, Standard, Wide or Full, for how wide a pull request, issue or discussion is laid out (#676)</li>
+<li><strong>The scrolled title sits at the pane's edge.</strong> The pill that appears once the header scrolls away now sits at the leading edge, beside the column, instead of over the text (#676)</li>
+<li><strong>Reviewers by name.</strong> A pull request's reviewers get a line of their own under the state line: avatar, name, and what they said, in color. They were two small avatars at the far end of the line (#677)</li>
+</ul>
+<h2 dir="auto">What's fixed</h2>
+<ul dir="auto">
+<li><strong>Files navigator no longer trips AppKit's reentrancy warning.</strong> The tree is flat rows with our own chevron; it looks and works the same (#674)</li>
+</ul>
+<p dir="auto">Install: open the DMG, drag Hog to Applications. Sign-in reuses <code class="notranslate">gh auth login</code>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.12.0/Hog-0.12.0.dmg" length="30842737" type="application/octet-stream"
+        sparkle:edSignature="KwLtDdbg0Zaim1unijskT3t7BD3csuM+IBg12eqV4x4/Jd8kwYGPvuAnkZzhVFamW/JmvcfWrV+aJfk7J684Dw==" />
+    </item>
+  </channel>
+</rss>
