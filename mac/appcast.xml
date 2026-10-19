@@ -5,6 +5,24 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.12.1</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.12.1</link>
+      <pubDate>Mon, 19 Oct 2026 13:47:34 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog, macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>Home catches you up.</strong> Three cards under Up next: Asked of you (unread review requests, mentions and assignments from your inbox), Your work (your open pull requests with their checks and review state) and Merged this week (what of yours landed). Each hidden when empty (#679)</li>
+</ul>
+<p dir="auto">Install: open the DMG, drag Hog to Applications. Sign-in reuses <code class="notranslate">gh auth login</code>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.12.1/Hog-0.12.1.dmg" length="30885615" type="application/octet-stream"
+        sparkle:edSignature="yBLpAs+HBUjYFXrUIyl8SvJkL5DcQekvVDnuKIFiZ1AlfYC9ls18N02RmbBwQV0ep9uf6C6Xcdg7tapsW974CQ==" />
+    </item>
+    <item>
       <title>Hog 0.12.0</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.12.0</link>
       <pubDate>Mon, 19 Oct 2026 12:52:56 +0000</pubDate>
