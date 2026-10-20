@@ -5,6 +5,28 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.13.0</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.0</link>
+      <pubDate>Tue, 20 Oct 2026 10:44:30 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog, macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>A sidebar of places.</strong> Home, Inbox, and one row per repository. A repository's Pull Requests, Issues, Code and Actions are now tabs in the list's toolbar (⌥⌘3 to ⌥⌘6), with unread counts. Repositories show their web favicon when they have one, else the owner's avatar, in the sidebar, the overview and Open Quickly (#686)</li>
+<li><strong>Tabs and title share the toolbar on scroll.</strong> Once a pull request's header scrolls away, the tabs turn into round icons and the title joins them in one capsule. Click the title to jump back to the top (#684)</li>
+<li><strong>"Merging is blocked", and why.</strong> A blocked pull request's merge card says what's holding it (a review, failing or running checks, conflicts, an out-of-date branch, no write access) instead of a disabled button with the reason in a tooltip. Merge… is enabled only when it can do something (#683)</li>
+<li><strong>Two columns on a wide pane.</strong> Home's overview puts Up next and the catch-up cards on the left and your activity on the right (#681)</li>
+<li><strong>A repository's overview catches you up too.</strong> Up next, Asked of you, Your work and Merged this week for that repository alone, beside its languages and About when there's room (#682)</li>
+</ul>
+<p dir="auto">Install: open the DMG, drag Hog to Applications. Sign-in reuses <code class="notranslate">gh auth login</code>. Installed copies update themselves.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.0/Hog-0.13.0.dmg" length="31147659" type="application/octet-stream"
+        sparkle:edSignature="Xi4sXwOWPVZpQkv+XON3nmenEFYuTKp/G0mkD+E/wI6+z9H43w/cZKdUg/sYzbChfl10Mhf/5XAOGhhxjqlNBw==" />
+    </item>
+    <item>
       <title>Hog 0.12.1</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.12.1</link>
       <pubDate>Mon, 19 Oct 2026 13:47:34 +0000</pubDate>
