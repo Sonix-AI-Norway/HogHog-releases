@@ -5,6 +5,27 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.13.4</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.4</link>
+      <pubDate>Tue, 20 Oct 2026 12:50:52 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.13.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li>Every comment now has a smiley under it for adding a reaction. You no longer have to hover to find it.</li>
+<li>You can react on issues, to the description and to comments.</li>
+<li>Discussions use the same smiley, next to upvotes.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/6be612b8">6be612b8</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.4/Hog-0.13.4.dmg" length="33391007" type="application/octet-stream"
+        sparkle:edSignature="Ci9eKXW9pgVyW2P9LzQ5SBmhKiOMaCsLAuDz1wBdW269WmaRIvjB0dSwKg/7oW8gHoVQLYUL1UHIC4+gZtkBBQ==" />
+    </item>
+    <item>
       <title>Hog 0.13.3</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.3</link>
       <pubDate>Tue, 20 Oct 2026 12:31:35 +0000</pubDate>
