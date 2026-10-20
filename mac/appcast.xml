@@ -5,6 +5,26 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.13.2</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.2</link>
+      <pubDate>Tue, 20 Oct 2026 11:45:47 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.13.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li>Balanced app icon spacing: the wild hog now has an even cobalt inset on all four sides.</li>
+<li>The bright cobalt background is shared by light and dark appearances.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/9868bd55704abe662920d2cc514b73cd2d78af17">9868bd55</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.2/Hog-0.13.2.dmg" length="33300514" type="application/octet-stream"
+        sparkle:edSignature="pRNcO9nENtbRHHC0rSDraiA5e/+yoP7nZ8BgyVm0A497EhtCI0G3LgP1QM2LHu/4pTyIXJCdhhQ0yd0BBZe5Bw==" />
+    </item>
+    <item>
       <title>Hog 0.13.1</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.1</link>
       <pubDate>Tue, 20 Oct 2026 11:34:29 +0000</pubDate>
