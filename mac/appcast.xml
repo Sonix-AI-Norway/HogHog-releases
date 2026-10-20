@@ -5,6 +5,27 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.13.3</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.3</link>
+      <pubDate>Tue, 20 Oct 2026 12:31:35 +0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.13.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li>After you open another pull request, its scrolled title no longer shows twice (in the toolbar and in a pill below it).</li>
+<li>The scrolled title's capsule now fits its title and tab icons, with no empty glass on either side.</li>
+<li>The tab icons beside the scrolled title are heavier and full strength, so they read on the glass.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/6dfeebe3de672e73d4b8e10311aeaf9af7df41af">6dfeebe3</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.3/Hog-0.13.3.dmg" length="33382336" type="application/octet-stream"
+        sparkle:edSignature="89ImN0yfJ+PH/HmnqRPLJFst+DKB1hdnaqjRa0V7Spz3a3qruiT3aAdxOAZ8ItJNX1EnZMbR74+0rt+ftUaPAg==" />
+    </item>
+    <item>
       <title>Hog 0.13.2</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.2</link>
       <pubDate>Tue, 20 Oct 2026 11:45:47 +0000</pubDate>
