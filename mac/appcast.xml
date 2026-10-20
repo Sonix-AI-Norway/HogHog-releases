@@ -5,6 +5,27 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.13.7</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.7</link>
+      <pubDate>Tue, 20 Oct 2026 14:07:35 +0000</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.13.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>Open Location (⌘L)</strong>: paste a GitHub link to a pull request, issue, comment, commit, release or repository and press Return to go straight there. It also takes <code class="notranslate">owner/name#123</code> and clone URLs. It's in File ▸ Open Location….</li>
+<li>Open Quickly (⌘P) opens pasted GitHub links too.</li>
+<li>Write Comment is now ⇧⌘L.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/d3cfde02">d3cfde02</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.7/Hog-0.13.7.dmg" length="33363875" type="application/octet-stream"
+        sparkle:edSignature="JuFnwkRYljnrKSZaU7AUqKCmG/XU76lJIfr4ZK87e6E6cxUjuKBvnz1UBB/E+zkUbRFTaArtch7h9Sf8dlKNBQ==" />
+    </item>
+    <item>
       <title>Hog 0.13.6</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.6</link>
       <pubDate>Tue, 20 Oct 2026 14:02:39 +0000</pubDate>
