@@ -5,6 +5,28 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.17.0</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.17.0</link>
+      <pubDate>Wed, 21 Oct 2026 14:04:55 +0000</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>Your app's icon, suggested</strong>: in an app's repository, Choose Icon now opens on a Suggested section with the app's own icon, ready for Return. Hog finds Icon Composer icons (<code class="notranslate">AppIcon.icon</code>, drawn from their layers), asset catalog icon sets and <code class="notranslate">.icns</code> files. If you pick an Icon Composer icon, the sidebar updates whenever its layers change.</li>
+<li><strong>Repository icons in lists</strong>: Inbox rows, Home's lists and Home's cards show the repository's icon before its name, so you can see at a glance which repository a row belongs to.</li>
+<li><strong>Drag repositories into groups</strong>: drag a repository between the rows of any group, back to Repositories, or onto a group's header to add it to the end, even when the group is empty or folded.</li>
+<li><strong>Inbox reads faster</strong>: a selected row is marked read after 300 ms instead of 1.5 s. Rows you arrow past stay unread, and the unread dot fades out.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/164b54f9">164b54f9</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.17.0/Hog-0.17.0.dmg" length="34304830" type="application/octet-stream"
+        sparkle:edSignature="BF9q5Wl5bd2hqrbPr9gDDmCLFsauDmfRDWGKDFf8apQ2BXqpdA6KAwIYNs/kMBmZPpCw3OAtOHeSMM9KX7/YDQ==" />
+    </item>
+    <item>
       <title>Hog 0.16.4</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.16.4</link>
       <pubDate>Wed, 21 Oct 2026 14:04:14 +0000</pubDate>
