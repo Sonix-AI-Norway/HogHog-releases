@@ -5,6 +5,25 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.15.1</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.15.1</link>
+      <pubDate>Wed, 21 Oct 2026 13:25:44 +0000</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.15.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>Plain links are clickable</strong>: URLs written without Markdown link syntax, like the <code class="notranslate">https://…</code> in a deploy bot's "Deployed … to https://…" comment, now open when clicked, the way they do on GitHub. Trailing punctuation stays out of the link.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/0f79027f">0f79027f</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.15.1/Hog-0.15.1.dmg" length="33758934" type="application/octet-stream"
+        sparkle:edSignature="mCgD+hdeM6IpUij5w/fsa4xjpHhk1mivyw3YoYgcqYN+ylZ8DmpTrWOwoyO7b/gunkWT/AM2qxYOSWtUEHkbBA==" />
+    </item>
+    <item>
       <title>Hog 0.15.0</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.15.0</link>
       <pubDate>Wed, 21 Oct 2026 13:08:29 +0000</pubDate>
