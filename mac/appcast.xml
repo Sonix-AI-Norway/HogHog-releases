@@ -5,6 +5,29 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.16.1</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.16.1</link>
+      <pubDate>Wed, 21 Oct 2026 13:45:00 +0000</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>0.16.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>CI notifications go somewhere.</strong> A branch's workflow runs are one Inbox row that names the branch's pull request ("skills #45 · CI failed at startup · 3 runs"). Selecting it opens the pull request on Checks, or the failed job's log when the branch has no pull request. Read, Unread and Done act on every run in the row, and the Delete key marks rows done, as in Mail.</li>
+<li><strong>Items open in about 50 ms.</strong> A cached pull request or issue paints with its first frame instead of after an empty page and a toolbar rebuild. One that isn't cached shows its title, state and author at once and fills in the body when it arrives.</li>
+<li><strong>Every <code class="notranslate">gh</code> account at once</strong> (0.16.0): pull requests, issues, the inbox and Home from all your signed-in accounts, with an account filter in the sidebar. Requests go out as the account that owns each repository.</li>
+<li><strong>The list toolbar fits with the sidebar hidden</strong> (0.15.3): tabs fold into one menu when room runs out.</li>
+<li><strong>Opening a pull request no longer blinks</strong> (0.13.10): long descriptions are parsed before the page paints, and a spinner waits 300 ms before it shows.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/18e37421">18e37421</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.16.1/Hog-0.16.1.dmg" length="34170079" type="application/octet-stream"
+        sparkle:edSignature="AJQfWfxarilC/YXenWyVQBd4vnAgO3RoGmCU6qQ+7y8EQKVqSq36sDABClh8RCmXaU7DUnmntZ0RbyJSEfWjBQ==" />
+    </item>
+    <item>
       <title>Hog 0.15.1</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.15.1</link>
       <pubDate>Wed, 21 Oct 2026 13:25:44 +0000</pubDate>
