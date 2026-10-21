@@ -5,6 +5,25 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.16.2</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.16.2</link>
+      <pubDate>Wed, 21 Oct 2026 13:51:40 +0000</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>0.16.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>No clipped search prompt</strong>: with the sidebar hidden and an item open, the narrowed search field shows just its magnifier instead of a cut-off "Search…". VoiceOver still reads the prompt.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/7c37d1bf">7c37d1bf</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.16.2/Hog-0.16.2.dmg" length="34169938" type="application/octet-stream"
+        sparkle:edSignature="8yILOWxG0Hl0cx0bLyyHIJ6EyFc5j17cFYf+/tStT3jzKkQ0AEsyN8Ytw7Gkg/ibm0QJXR8RuTs7MU+9s/rTAQ==" />
+    </item>
+    <item>
       <title>Hog 0.16.1</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.16.1</link>
       <pubDate>Wed, 21 Oct 2026 13:45:00 +0000</pubDate>
