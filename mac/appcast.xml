@@ -5,6 +5,25 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.13.9</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.9</link>
+      <pubDate>Wed, 21 Oct 2026 12:04:33 +0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.13.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>Pick a GitHub CLI account</strong>: with more than one account signed in to <code class="notranslate">gh</code>, Settings ▸ Account lets you choose which one Hog uses. Hog reads that account's token without changing <code class="notranslate">gh</code>'s active account, and remembers the pick once sign-in works. If <code class="notranslate">gh</code> later signs out of the picked account, Hog falls back to the active one.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/4073b0ed">4073b0ed</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.9/Hog-0.13.9.dmg" length="33397756" type="application/octet-stream"
+        sparkle:edSignature="wW85jds8kdVK6SwFcvwyjjhEvsSiVL1U+vzuD8nlMwsaqWEJVKhNkkhfmnNg51FIs2glDl924sbXR3NQpBDTCg==" />
+    </item>
+    <item>
       <title>Hog 0.13.8</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.8</link>
       <pubDate>Wed, 21 Oct 2026 08:08:39 +0000</pubDate>
