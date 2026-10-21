@@ -5,6 +5,26 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.16.4</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.16.4</link>
+      <pubDate>Wed, 21 Oct 2026 14:04:14 +0000</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>0.16.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>Drag repositories between sidebar groups</strong>: drag a repository into a group, back out to Repositories, or to a new spot in its section. Dropping on a group's header adds it to the end of that group, even when the group is folded.</li>
+<li><strong>Colored page menu</strong>: with the sidebar hidden, the folded page menu shows each page in its own color, as the tabs do.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/58805a16">58805a16</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.16.4/Hog-0.16.4.dmg" length="34174204" type="application/octet-stream"
+        sparkle:edSignature="YiE/iy5/i1FDMwSLIFdtBl15LqC5yEfJw5IMvgnLfwoJRHF9kUtKuTTjaSvMizaHEX1sq6yrxXMA6rykp9ckCw==" />
+    </item>
+    <item>
       <title>Hog 0.16.3</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.16.3</link>
       <pubDate>Wed, 21 Oct 2026 14:01:25 +0000</pubDate>
