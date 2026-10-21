@@ -5,6 +5,26 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.15.0</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.15.0</link>
+      <pubDate>Wed, 21 Oct 2026 13:08:29 +0000</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>Choose a repository's icon</strong>: right-click a repository in the sidebar and choose Choose Icon… to use any image from its default branch (SVG, PNG, ICO, JPEG, GIF or WebP). Every image shows as a thumbnail drawn the way the sidebar will show it. The icon follows the file as it changes, and Use Default brings back the favicon. You can also right-click an image in Code and choose Use as Repository Icon….</li>
+<li><strong>Groups in the sidebar</strong>: sort your repositories into named sections (File ▸ New Group…, or a repository's menu ▸ Move to Group). Each group folds from its header, and the header's menu renames, reorders or deletes it. Deleting a group keeps its repositories.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/114dcffa">114dcffa</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.15.0/Hog-0.15.0.dmg" length="33709317" type="application/octet-stream"
+        sparkle:edSignature="z7apUOR6FqTRwgYYEiVVwrmmNZpkNLxGAv6GnsbbXLtro8OolHa6FtMSwZadvRw3berp7jdOxC8I0880ydDDBA==" />
+    </item>
+    <item>
       <title>Hog 0.13.9</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.9</link>
       <pubDate>Wed, 21 Oct 2026 12:04:33 +0000</pubDate>
