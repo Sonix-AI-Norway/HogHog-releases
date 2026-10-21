@@ -5,6 +5,27 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.13.8</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.8</link>
+      <pubDate>Wed, 21 Oct 2026 08:08:39 +0000</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.13.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>Headings read as headings</strong>: <code class="notranslate">###</code> was the size of body text and <code class="notranslate">####</code> smaller than it. They now step down from 22 pt to 12 pt, as on GitHub, with room above each.</li>
+<li><strong>Code looks like code</strong>: inline code is a size smaller than the text, on a light tint. Code and suggestion blocks use the same size, and suggestions follow View ▸ Bigger and Smaller.</li>
+<li>Long descriptions no longer show a thin line across the card above code blocks.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/0f62f352">0f62f352</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.8/Hog-0.13.8.dmg" length="33412581" type="application/octet-stream"
+        sparkle:edSignature="sKBpXZDTo9qSgsTcRLXPIDJV8nT4wUxTIy+NqKVw5VBoTGEHThwEDfws2m/tGWCJjqzxelTjGe50BWHxXCHCAw==" />
+    </item>
+    <item>
       <title>Hog 0.13.7</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.7</link>
       <pubDate>Tue, 20 Oct 2026 14:07:35 +0000</pubDate>
