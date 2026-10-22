@@ -5,6 +5,25 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.17.2</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.17.2</link>
+      <pubDate>Thu, 22 Oct 2026 11:12:52 +0000</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>0.17.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>A new app icon.</strong> The hog is now a hand-coloured plate from a 19th-century natural history: a wild boar's head on aged paper, in place of the black-and-ivory engraving on cobalt.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/da879cd9">da879cd9</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.17.2/Hog-0.17.2.dmg" length="35437601" type="application/octet-stream"
+        sparkle:edSignature="PUxCdDq8AJXKneDfBzSC17soc3gCPyCSTS0ywQqSSEPV+XBw9xIG49QvrvhZg0UXeX5uHevYaZloSJShvqFfCw==" />
+    </item>
+    <item>
       <title>Hog 0.17.1</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.17.1</link>
       <pubDate>Wed, 21 Oct 2026 14:12:49 +0000</pubDate>
