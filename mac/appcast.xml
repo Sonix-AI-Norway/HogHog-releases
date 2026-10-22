@@ -5,6 +5,29 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.18.0</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.18.0</link>
+      <pubDate>Thu, 22 Oct 2026 11:30:22 +0000</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>Home is the one place to get things done.</strong> It lists only what's waiting on you, in four plain sections: Waiting for your review, Asked of you, Ready to merge and Needs a fix. Anything waiting on someone else stays out of the way.</li>
+<li><strong>Calm rows, one clear action.</strong> Each row is one line: the title and one short fact ("anna", "Mentioned", "Approved"). Select one and the detail says why it's there ("Here because your review was requested 2 hours ago, and checks passed"), what's up next, and shows its one action as the highlighted toolbar button: Merge…, Reply, Re-run, Approve… or Done.</li>
+<li><strong>Keyboard first.</strong> Return does the selected row's action, Space moves on, Delete marks it done. When a row leaves, the next one is selected.</li>
+<li><strong>Hog tidies up for you.</strong> Notifications about merged or closed pull requests, and review requests you've already answered, clear themselves. Merge All… merges every ready pull request after one confirmation; green bot updates and failing workflows come as one row each.</li>
+<li><strong>No more Inbox tab.</strong> The sidebar is Home and your repositories. Old Inbox links open Home, and everything else that's unread sits folded under Other updates.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/4d92c716">4d92c716</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.18.0/Hog-0.18.0.dmg" length="35599288" type="application/octet-stream"
+        sparkle:edSignature="dJSc4dbk7FdzFlUDef7NsGtg/DlM9HkR5CVpZ6bT29yzXEJKaE7MyzaPs6TIzZzviNTxNLI22K/iiyczAqA7Bw==" />
+    </item>
+    <item>
       <title>Hog 0.17.2</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.17.2</link>
       <pubDate>Thu, 22 Oct 2026 11:12:52 +0000</pubDate>
