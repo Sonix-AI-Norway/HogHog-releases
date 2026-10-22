@@ -5,6 +5,25 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.19.0</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.19.0</link>
+      <pubDate>Thu, 22 Oct 2026 12:16:12 +0000</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>Pick the app icon.</strong> Settings ▸ Appearance ▸ App Icon: Automatic (paper in light mode, night in dark), Paper or Night. Your pick shows in the Dock and the app switcher while Hog is open.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/9ad52f20">9ad52f20</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.19.0/Hog-0.19.0.dmg" length="37919195" type="application/octet-stream"
+        sparkle:edSignature="haDp8BxsmUYKSkDDuyha+oAHu4tHFIWQAR+ZGvXAX21Cx65rA87DO77ofxKJMwGxCDhMKkVRQCuIt22qqd4GAg==" />
+    </item>
+    <item>
       <title>Hog 0.18.1</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.18.1</link>
       <pubDate>Thu, 22 Oct 2026 11:50:04 +0000</pubDate>
