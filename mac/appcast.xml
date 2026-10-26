@@ -5,6 +5,25 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.19.2</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.19.2</link>
+      <pubDate>Mon, 26 Oct 2026 10:58:15 +0000</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>0.19.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>Conversations line up again.</strong> On a wide reading column, or with the inspector open, a pull request's cards sat off center or ran under the inspector. They now share the pane's center with the comment box.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/97151488">97151488</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.19.2/Hog-0.19.2.dmg" length="37918812" type="application/octet-stream"
+        sparkle:edSignature="dPEZCBGXH8xbfdjK+SlaJLCCkeP15p5r+9iWQ2hrI2IVzSpW56zTH+GoFxzTAnp9VrQmdZUgI/CtdbDsKFwAAA==" />
+    </item>
+    <item>
       <title>Hog 0.19.1</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.19.1</link>
       <pubDate>Thu, 22 Oct 2026 13:15:46 +0000</pubDate>
