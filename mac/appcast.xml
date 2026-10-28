@@ -5,6 +5,25 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.20.1</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.20.1</link>
+      <pubDate>Wed, 28 Oct 2026 14:36:12 +0000</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>0.20.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>Open Quickly and Open Location are ready to type into.</strong> ⌘P and ⌘L opened the panel without putting the cursor in its search field, so you had to click it first. Now you can start typing as soon as it appears.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/9e5191be">9e5191be</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.20.1/Hog-0.20.1.dmg" length="38032340" type="application/octet-stream"
+        sparkle:edSignature="CTfrG80BS8b9qv6vDiQoJV835RYyePIatwKPjCgylzH7xSDX8HoefGsxaWSAiUMzzLqdlg976NtB3pMTMRtACA==" />
+    </item>
+    <item>
       <title>Hog 0.20.0</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.20.0</link>
       <pubDate>Wed, 28 Oct 2026 09:11:40 +0000</pubDate>
