@@ -5,6 +5,28 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.20.0</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.20.0</link>
+      <pubDate>Wed, 28 Oct 2026 09:11:40 +0000</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>Notify When Ready to Merge.</strong> A new alert in the Pull Request menu. It tells you once GitHub would merge the pull request, its checks have passed and no review thread is left unresolved. If you've merged in that repository before, the notification has a Merge button.</li>
+<li><strong>Checks alerts count the checks that matter.</strong> Notify When Checks Finish now goes by the required checks (or every check, when none are required). A failing optional check no longer reads as "Checks failed", and a slow advisory check no longer holds the alert back.</li>
+<li><strong>No early "Checks passed" after a push.</strong> A result counts only after two polls in a row see the same set of checks, so a run that has only partly registered isn't reported as finished.</li>
+<li><strong>Conflicts are announced.</strong> While an alert is set, you're told once each time the branch starts to conflict with its base.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/b2944801">b2944801</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.20.0/Hog-0.20.0.dmg" length="37961226" type="application/octet-stream"
+        sparkle:edSignature="BxbPlzs/jdCrwJvaViiPr+1+Gu3cS+oUfPyVuLg6LwBWU5ftImfopjjLLy/Qu3HbrBv1lFVLxPo/j//rEe37BA==" />
+    </item>
+    <item>
       <title>Hog 0.19.3</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.19.3</link>
       <pubDate>Wed, 28 Oct 2026 08:59:43 +0000</pubDate>
