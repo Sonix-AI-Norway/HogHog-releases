@@ -5,6 +5,25 @@
     <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
+      <title>Hog 0.19.3</title>
+      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.19.3</link>
+      <pubDate>Wed, 28 Oct 2026 08:59:43 +0000</pubDate>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>0.19.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p dir="auto">Native SwiftUI Hog for macOS 26+. Universal (Apple silicon + Intel). Signed with Developer ID and notarized.</p>
+<h2 dir="auto">What's new</h2>
+<ul dir="auto">
+<li><strong>The comment box lines up with the conversation.</strong> With a mouse connected (or scroll bars set to Always), a pull request's cards sat a few points left of the comment box, and in narrow windows stopped short of its right edge. Both now share the same edges, with or without scroll bars.</li>
+</ul>
+<p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
+<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/89e3132b">89e3132b</a>.</p>
+      ]]></description>
+      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.19.3/Hog-0.19.3.dmg" length="37929487" type="application/octet-stream"
+        sparkle:edSignature="zqHlRZIvWvHmYzfYT3baW8AqasxLSAHG2P/Qpm7sNKNUAI9Q+MmeA78/v2Q3JfODzTJbH0BFEPTvkIR2bzDaAw==" />
+    </item>
+    <item>
       <title>Hog 0.19.2</title>
       <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.19.2</link>
       <pubDate>Mon, 26 Oct 2026 10:58:15 +0000</pubDate>
